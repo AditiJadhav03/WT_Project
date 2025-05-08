@@ -111,7 +111,7 @@ ul {
 .main-navigation .menu li a:hover,
 .main-navigation .menu li .active-menu,
 .main-navigation .menu .sub-menu li .active-sub-menu {
-    color: #ff8243;
+    color: #B03052;
     background: #f3f3f5;
     box-shadow: inset 8px 8px 12px #e2e2e2, inset -8px -8px 12px #ffffff;
 }
@@ -149,7 +149,7 @@ ul {
     background: #ffffff;
     font-size: 12px;
     border: 1px solid #bfbfbf;
-    color: #ff8243;
+    color: #EC7FA9;
 }
 
 .header-btn:hover {
@@ -207,7 +207,7 @@ ul {
 }
 
 .uil {
-    color: #ff8243;
+    color: #FF8989;
 }
 
 @media screen and (min-width: 992px) {
@@ -326,7 +326,7 @@ ul {
         display: block;
         width: 100%;
         height: 4px;
-        background: #ff8243;
+        background: #FF8989;
         margin-bottom: 5px;
         transition: 0.3s;
         border-radius: 5px;
@@ -401,7 +401,7 @@ ul {
     }
 
     .main-navigation .menu .sub-menu li a {
-        color: #ff8243;
+        color: #FF8989;
     }
 
     .header-btn.header-cart {
@@ -578,7 +578,7 @@ ul {
 }
 
 .h1-title span {
-    color: #ff8243;
+    color: #FF8989;
     background-image: linear-gradient(0deg, rgb(13 13 37 /8%), rgb(13 13 37 /8%));
     background-size: 100% 15px;
     background-position: 0 90%;
@@ -606,7 +606,7 @@ p {
 .sec-btn {
     min-width: 120px;
     min-height: 58px;
-    background: #f3f3f5;
+    background: #C599B6;
     box-shadow: 9px 9px 12px #b2b2b3, -9px -9px 12px #ffffff;
     display: inline-flex;
     justify-content: center;
@@ -673,7 +673,7 @@ p {
     box-shadow: 9px 9px 12px #e4e4e4, -9px -9px 12px #ffffff;
     padding: 3px 20px;
     border-radius: 60px;
-    color: #ff8243;
+    color: #FF8989;
     font-size: 14px;
 }
 
@@ -752,16 +752,16 @@ p {
 }
 
 ::-webkit-scrollbar-track {
-    background-color: #bfbfbf;
+    background-color: #bc99a8;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #ff8243;
+    background: #2DAA9E;
     border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #f16620;
+    background: #AC1754;
 }
 
 /* **************** */
@@ -815,7 +815,7 @@ p {
 
 .menu-tab ul .filter-active {
     color: #ffffff;
-    background: linear-gradient(145deg, #e3a92b, #ffc933);
+    background: linear-gradient(145deg, #2DAA9E, #4D55CC);
 }
 
 .menu-list-row .bydefault_show .dish-box-wp {
@@ -937,10 +937,10 @@ p {
     height: 40px;
     border: none;
     border-radius: 10px;
-    color: #ffffff;
+    color: #4D55CC;
     transition: 0.3s;
-    background: linear-gradient(145deg, #ffc954, #ffbc00);
-    box-shadow: inset 4px 4px 8px #d6a029, inset -4px -4px 8px #ffd837;
+    background: linear-gradient(145deg, #80CBC4, #80CBC4);
+    box-shadow: inset 4px 4px 8px #80CBC4, inset -4px -4px 8px #80CBC4;
 }
 
 .dish-add-btn i {
@@ -949,7 +949,7 @@ p {
 }
 
 .dish-add-btn:hover {
-    background: linear-gradient(145deg, #e3a92b, #ffc933);
+    background: linear-gradient(145deg, #AC1754, #E53888);
 }
 
 /* ************ */
@@ -1013,7 +1013,7 @@ p {
     margin-bottom: 25px;
     background: #f3f3f5;
     box-shadow: 9px 9px 12px #b2b2b3, -9px -9px 12px #ffffff;
-    color: #ff8243;
+    color: #FDAB9E;
 }
 
 .call-now a {
@@ -1025,7 +1025,7 @@ p {
 
 .call-now a:hover,
 .contact-info a:hover {
-    color: #fcbc30;
+    color: #FDAB9E;
 }
 
 #gallery {
@@ -1082,12 +1082,12 @@ p {
 
 .swiper-button-prev:hover {
     box-shadow: inset 5px 5px 20px #d4d4d4, inset -5px -5px 20px #ffffff;
-    color: #fcbc30;
+    color: #FDAB9E;
 }
 
 .swiper-button-next:hover {
     box-shadow: inset -5px 5px 20px #d4d4d4, inset 5px -5px 20px #ffffff;
-    color: #fcbc30;
+    color: #FDAB9E;
 }
 
 .swiper-pagination {
@@ -1112,7 +1112,7 @@ p {
 }
 
 .swiper-pagination-bullet-active {
-    background: #fcbc30;
+    background: #FDAB9E;
     width: 30px;
 }
 
@@ -1179,7 +1179,7 @@ p {
 }
 
 .social-icon ul li a:hover {
-    background: #ff8243;
+    background: #E50046;
 }
 
 .social-icon ul li a:hover i {
@@ -1278,7 +1278,7 @@ p {
     content: "\f005\f005\f005\f005\f005";
     font-family: "Font Awesome 5 Pro";
     font-weight: 900;
-    color: #ff8243;
+    color: #E50046;
     letter-spacing: 4px;
 }
 
@@ -1332,7 +1332,7 @@ p {
 }
 
 .blog-text .h4-title:hover {
-    color: #ff8243;
+    color: #E50046;
 }
 
 .blog-date {
@@ -1418,7 +1418,7 @@ p {
 }
 
 .sec-btn.primary-btn {
-    background: linear-gradient(145deg, #e26a2c, #ff8243);
+    background: linear-gradient(145deg, #B7B1F2, #27548A);
     color: #ffff;
     border: none;
     box-shadow: 4px 4px 8px #9e9e9e, -4px -4px 8px #ffffff;
@@ -1467,7 +1467,7 @@ p {
 
 .footer-menu ul li a:hover,
 .footer-menu ul li .footer-active-menu {
-    color: #ff8243;
+    color: #009990;
 }
 
 .footer-menu ul li {
@@ -1492,7 +1492,7 @@ p {
 }
 
 .name {
-    color: #ff8243;
+    color: #009990;
     font-weight: bold;
 }
 
@@ -2016,3 +2016,149 @@ p {
         padding: 20px;
     }
 }
+
+/* General Styles for What India Eats Page */
+body {
+    font-family: 'Poppins', sans-serif;
+    text-rendering: optimizeLegibility !important;
+    background: F77293;
+}
+
+/* Navbar Styling ---------------------------------------------------------------------------------------------------*/
+nav {
+    background-color: #f8f0f0;
+    /* Dark background for navbar */
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(244, 240, 240);
+    font-size: 18px;
+    padding: 10px;
+}
+
+nav ul li a:hover {
+    background-color: #f3eded;
+    /* Highlight on hover */
+}
+
+/* Main Content Styling */
+main {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Heading Styling */
+h1 {
+    color: #0d0e10;
+    /* Darker color for main title */
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #120f12;
+    /* Slightly lighter color for sub-headings */
+    font-size: 28px;
+    margin: 30px 0;
+}
+
+/* Image Styling */
+img {
+    max-width: 80%;
+    /* Make images responsive */
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    /* Rounded corners for images */
+}
+
+/* Button/Link Styling */
+/* Footer Styling----------------------------------------------------------------------------------------------------------- */
+footer {
+    text-align: center;
+    background-color: #c8c7ca;
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 40px;
+}
+.uppside {
+    text-align: center;
+    background: linear-gradient(135deg, #a85779, #e35591, #f78598, #f1a3b0, #f1b5bf);
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 40px;
+}
+/* chart design------------------------------------------------------------------------------------------------*/
+/* Layout for each row containing two charts */
+.chart-row {
+    display: flex;
+    justify-content: center;
+    gap: 40px; /* space between two charts */
+    margin-bottom: 40px;
+    flex-wrap: wrap; /* allows wrap on smaller screens */
+  }
+  
+  /* Each chart box-----------------------------------------------------------------------------------------------*/
+ /* Chart row container: holds two chart-boxes side by side */
+.chart-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 20px;
+    flex-wrap: wrap; /* allows responsiveness on smaller screens */
+  }
+  
+  /* Each chart box */
+  .chart-box {
+    flex: 0 0 48%; /* each chart takes up about 48% to leave space for gap */
+    text-align: center;
+    background-color: #f4eeee;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-sizing: border-box;
+  }
+  
+  /* Chart images */
+  .chart-box img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  /* Global styling */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #fffaf5;
+    padding: 20px;
+  }
+  
+  /* Optional: Responsive tweaks */
+  @media (max-width: 768px) {
+    .chart-box {
+      flex: 0 0 100%; /* stack charts on small screens */
+    }
+  }
+/*the <p> design*/
+.intro-text {
+    font-size: 1.3rem;      
+    font-style: italic;
+    font-weight: bold;
+    color: #d35400;        
+    margin-bottom: 10px;
+  }
+  /*goodbye grating section*/
